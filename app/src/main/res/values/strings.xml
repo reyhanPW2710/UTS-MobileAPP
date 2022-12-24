@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">UTS_00000042578_ReyhanPhilliesWijaya</string>
+    <string name="library">Library</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_library">Library</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="reyhan_phillies_w">REYHAN PHILLIES W.</string>
+    <string name="_00000042578">00000042578</string>
+    <string name="if_570_al">IF 570 - AL</string>
+    <string name="referensi">REFERENSI :</string>
+    <string name="youtube_n_1_coding_in_flow_n_2_trisna_sejati_n_3_github">Youtube : \n 1. Coding in Flow\n 2. Trisna Sejati \n 3.Github</string>
+</resources>
